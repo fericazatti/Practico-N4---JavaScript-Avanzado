@@ -1,20 +1,38 @@
 Explica los siguentes conceptos con tus propias palabras.
 
-
 1- Scope
+
+De manera simplificada el scope se puede considerar como el alcance que tendra cada una de las variables que se manejan en el programa. 
+A grandes rasgos tenemos scopes globales y locales
 
 2- Tipos de datos
 
+El tipo de dato determina que información podremos garduar en las variables que definimos en nuestro programa.  
+
 3- Operadores
+
+Los operadores permiten manipular el valor de las variables, realizar operaciones matemáticas con sus valores y comparar diferentes variables.
 
 4- Coercion
 
+La coerción de tipo es el proceso de convertir valor de un tipo a otro. Cualquier tipo, ya sea primitivo o un objeto, es un sujeto válido para la coerción de tipos. Para recordar, las primitivas son: número, cadena, booleano, nulo, indefinido + Símbolo.
+
 5- Precedencia
+
+La precedencia de operadores determina cómo se analizan los operadores entre sí. Los operadores con mayor precedencia se convierten en los operandos de los operadores con menor precedencia.
 
 6- Bind
 
+El bind()método crea una nueva función que, cuando se llama, tiene su thispalabra clave establecida en el valor proporcionado, con una secuencia dada de argumentos que preceden a los proporcionados cuando se llama a la nueva función.
+
 7- Apply
+
+El método apply() llama a la función especificada con un valorthis dado. 
 
 8- Promesas
 
+Las promersas son objeto que representa la eventual finalización o falla de una operación que es asincrona. Dado que la mayoría de las personas son consumidores de promesas ya creadas, esta guía explicará el consumo de promesas devueltas antes de explicar cómo crearlas.
+
 9- Recursividad
+
+Se llama asi en Js al acto de una función que se llama a sí misma. La recursividad se usa para resolver problemas que contienen subproblemas más pequeños cuya solución en conjunto resuelve la problematica final. Una función recursiva por lo general recibe dos entradas: un caso base (finaliza la recursión) o un caso recursivo (reanuda la recursión).
